@@ -13,7 +13,7 @@ package ap2;
 import java.util.Scanner;
 
 /**
- * @author Rdorigo Rinaldi dos Santos TADS 2ºperiodo 2017 turmaB 
+ * @author Rodrigo Rinaldi dos Santos TADS 2ºperiodo 2017 turmaB 
  */
 
 public class AP2 {
